@@ -23,7 +23,7 @@ public class EnigmaFrame extends JFrame {
         // Set up the frame
         setTitle("Enigma GUI");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(800, 500); 
+        setSize(300, 200); 
         setLayout(new BorderLayout());
 
         // Initialize the components
